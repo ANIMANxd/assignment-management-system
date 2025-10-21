@@ -1232,10 +1232,10 @@ Potential features to add:
 
 ## Contributors
 
-Created by: Aniruddha Bhide
-Institution: Chanakya University
-Course: Full Stack Development
-Date: October 2025
+- Created by: Aniruddha Bhide
+- Institution: Chanakya University
+- Course: Full Stack Development
+- Date: October 2025
 
 ---
 

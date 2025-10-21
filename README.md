@@ -1232,8 +1232,8 @@ Potential features to add:
 
 ## Contributors
 
-Created by: [Your Name]
-Institution: [Your College/University]
+Created by: Aniruddha Bhide
+Institution: Chanakya University
 Course: Full Stack Development
 Date: October 2025
 
